@@ -1,6 +1,6 @@
-<mxfile modified="2020-07-14T01:36:22.583Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="sKZcKZyHPsHt93VDqQx7" version="13.4.2" type="github">
+<mxfile modified="2020-07-15T10:03:47.579Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15" etag="UYWOZF9Znuvd1qcPsjJw" version="13.4.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1204" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,6 +116,9 @@
         </mxCell>
         <mxCell id="UQ2LxM0Z4wup96I_UUnh-2" value="RDS Proxy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="774.5" y="491.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8U3GjxQwG1gGBDJ6qcOS-1" value="DBの接続先やパスワードなどを保存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="150" width="144.13" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
